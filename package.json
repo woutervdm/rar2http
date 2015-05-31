@@ -1,0 +1,12 @@
+{
+  "name": "rarserver",
+  "version": "0.0.1",
+  "description": "Server files inside a rar file using http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wouter van de Molengraft",
+  "license": "GPL",
+  "dependencies": {}
+}
