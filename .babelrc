@@ -1,0 +1,15 @@
+{
+  "presets": [["@babel/env", {
+    "targets": {
+      "node": true
+    }
+  }]],
+  "plugins": [
+    ["module-resolver", {
+      "alias": {
+        "@": "./src",
+        "~": "./src"
+      }
+    }]
+  ]
+}
